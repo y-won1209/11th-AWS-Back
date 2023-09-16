@@ -25,4 +25,3 @@
 
 - 배포 후 데이터베이스 생성이 안돼요~
     > ec2 서버에 접속 후 **sudo docker exec -it web python3 manage.py makemigrations**, **sudo docker exec -it web python3 manage.py migrate** 입력
-gg
